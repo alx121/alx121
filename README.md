@@ -7,8 +7,6 @@ I made this account after github closed my OG one (@alxcg121) minutes after crea
 
 Although at the moment I do not plan to publish any of my personal projects and instead focus on learning, here's my contact info, (at the moment just my e-mail) just in case: alx.c.g@hotmail.com, (don't worry if the contact e-mail doesn't match my account's, this last one is just a forwarder).
 
-
-[README NOT FINISHED YET]
 <!---
 alx121/alx121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
